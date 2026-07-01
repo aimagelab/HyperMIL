@@ -1,0 +1,17 @@
+jobs/
+logs/
+savemodel/
+__pycache__/
+models/__pycache__/
+*.py[cod]
+*.pth
+*.log
+.wandb/
+.env
+.DS_Store
+.idea/
+
+# editor, os cache directory
+.vscode/
+.idea/
+__MACOSX/
